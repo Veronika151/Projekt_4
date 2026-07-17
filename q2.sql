@@ -5,7 +5,6 @@
 -- období dostupných dat cen a mezd?
 -- =========================================================
 
-
 WITH comparable_years AS (
 
     SELECT
@@ -17,7 +16,6 @@ WITH comparable_years AS (
 ),
 
 yearly_payroll AS (
-
 
     SELECT DISTINCT
         year,
@@ -31,7 +29,6 @@ yearly_payroll AS (
 
 average_payroll AS (
 
-
     SELECT
         year,
         AVG(avg_payroll_value) AS avg_payroll
@@ -43,7 +40,6 @@ average_payroll AS (
 ),
 
 selected_food_prices AS (
-
 
     SELECT DISTINCT
         year,
