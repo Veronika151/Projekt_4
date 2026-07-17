@@ -90,7 +90,7 @@ Ve sledovaném období se kupní síla obyvatel zvýšila. Přestože ceny chleb
 
 Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr krystalový**. Průměrná meziroční změna ceny činila **−1,92 %**, což znamená, že se cena této potraviny během sledovaného období v průměru meziročně snižovala.
 
-Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlouhodobě nezdražoval, ale vykazoval mírný pokles průměrné ceny.
+Na rozdíl od většiny ostatních sledovaných kategorií potravin cukr dlouhodobě nevykazoval růst cen, ale naopak mírný pokles průměrné ceny.
 
 **SQL skript:** [question_3.sql](question_3.sql)
 
