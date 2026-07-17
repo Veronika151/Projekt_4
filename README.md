@@ -1,7 +1,7 @@
 # 📊 SQL Projekt
 
 <p align="center">
-  <b>Analýza vývoje mezd, cen potravin a ekonomických ukazatelů v letech 2006–2018</b>
+  <b>Dostupnost základních potravin široké veřejnosti </b>
 </p>
 
 ---
