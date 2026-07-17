@@ -1,7 +1,8 @@
 -- Výzkumná otázka č. 5
 --
--- Má růst HDP vliv na změny mezd a cen potravin
--- ve stejném nebo následujícím roce?
+-- Má výška HDP vliv na změny ve mzdách a cenách potravin? 
+-- Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách 
+-- potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?
 -- =========================================================
 
 WITH gdp_values AS (
