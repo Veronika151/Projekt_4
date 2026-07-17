@@ -25,11 +25,7 @@ Tyto údaje umožní porovnat ekonomickou situaci České republiky s ostatními
 ### Výzkumná otázka č. 1:
 **Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
-Na základě analýzy meziročních změn průměrných mezd bylo zjištěno, že mzdy nerostly ve všech odvětvích po celé sledované období. V letech 2006–2018 bylo identifikováno 25 případů meziročního poklesu mezd.
+Výsledky analýzy ukazují, že mzdy v jednotlivých odvětvích mezi roky 2006 a 2018 obecně rostly, avšak růst nebyl rovnoměrný ve všech sektorech. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nejvýraznější pokles byl zaznamenán v roce 2013, především v odvětví peněžnictví a pojišťovnictví, kde mzdy klesly téměř o 9 %. Další významnější poklesy byly například v odvětví Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu (−4,44 % v roce 2013) nebo Těžba a dobývání (−3,24 % v roce 2013).
 
-Nejvíce poklesů nastalo v roce 2013, kdy se negativní vývoj projevil ve více odvětvích současně. Nejvýraznější pokles byl zaznamenán v odvětví peněžnictví a pojišťovnictví, kde průměrná mzda meziročně klesla o 8,83 %.
-
-Výsledky tedy ukazují, že dlouhodobý trend vývoje mezd byl sice rostoucí, ale jednotlivá odvětví zaznamenala v některých letech také pokles.
-
-Výsledky analýzy ukazují, že mzdy v jednotlivých odvětvích mezi roky 2006 a 2018 obecně rostly, avšak růst nebyl rovnoměrný ve všech sektorech. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nejvýraznější pokles byl zaznamenán v roce 2013, především v odvětví peněžnictví a pojišťovnictví, kde mzdy klesly téměř o 9 %. Nelze tedy potvrdit, že by mzdy rostly ve všech odvětvích bez výjimky.
----
+_Závěr:_
+Mzdy nerostou ve všech letech bez výjimky, protože některá odvětví zaznamenala meziroční pokles. Celkový trend mezi roky 2007–2018 je však jednoznačně růstový – ve všech odvětvích došlo k celkovému zvýšení průměrné mzdy.
