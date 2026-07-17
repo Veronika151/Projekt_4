@@ -95,8 +95,7 @@ Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr 
 
 Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlouhodobě nezdražoval, ale vykazoval mírný pokles průměrné ceny.
 
-**SQL skript:** [question_3.sql](sql/question_3.sql)
-
+**SQL skript:** [question_3.sql](question_3.sql)
 ---
 
 **📉 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
