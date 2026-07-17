@@ -31,4 +31,5 @@ Nejvíce poklesů nastalo v roce 2013, kdy se negativní vývoj projevil ve víc
 
 Výsledky tedy ukazují, že dlouhodobý trend vývoje mezd byl sice rostoucí, ale jednotlivá odvětví zaznamenala v některých letech také pokles.
 
+Výsledky analýzy ukazují, že mzdy v jednotlivých odvětvích mezi roky 2006 a 2018 obecně rostly, avšak růst nebyl rovnoměrný ve všech sektorech. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nejvýraznější pokles byl zaznamenán v roce 2013, především v odvětví peněžnictví a pojišťovnictví, kde mzdy klesly téměř o 9 %. Nelze tedy potvrdit, že by mzdy rostly ve všech odvětvích bez výjimky.
 ---
