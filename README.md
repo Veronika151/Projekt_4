@@ -57,4 +57,12 @@ Největší rozdíl mezi meziročním růstem cen potravin a mezd byl zaznamená
 
 Naopak největší rozdíl ve prospěch mezd nastal v roce **2009**, kdy průměrné mzdy vzrostly o **2,84 %**, zatímco ceny potravin klesly o **6,59 %**. Rozdíl dosáhl **−9,43 procentního bodu**.
 
+### Výzkumná otázka č. 5:
 
+**Má výška HDP vliv na změny ve mzdách a cenách potravin? Neboli, pokud HDP vzroste výrazněji v jednom roce, projeví se to na cenách potravin či mzdách ve stejném nebo následujícím roce výraznějším růstem?**
+
+Pro posouzení možného vlivu HDP byly porovnány meziroční změny HDP s meziročním růstem mezd a cen potravin ve stejném i následujícím roce.
+
+Výsledky neprokázaly jednoznačný vztah mezi růstem HDP a vývojem mezd nebo cen potravin. Například v roce 2009 HDP meziročně kleslo o **4,66 %**, přesto mzdy vzrostly o **2,84 %**, zatímco ceny potravin klesly o **6,59 %**. Naopak v roce 2017 byl zaznamenán současný růst HDP (**5,17 %**), mezd (**6,40 %**) i cen potravin (**7,06 %**), což může naznačovat určitou souvislost.
+
+Při porovnání s následujícím rokem se však obdobný vzorec nepotvrdil. Na základě dostupných dat proto nelze potvrdit, že vyšší růst HDP pravidelně vede k výraznějšímu růstu mezd nebo cen potravin ve stejném ani následujícím roce.
