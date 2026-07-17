@@ -1,8 +1,7 @@
 -- Výzkumná otázka č. 2
 --
--- Kolik litrů mléka a kilogramů chleba je možné koupit
--- za průměrnou mzdu v prvním a posledním srovnatelném
--- období dostupných dat cen a mezd?
+-- Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední 
+-- srovnatelné období v dostupných datech cen a mezd?
 -- =========================================================
 
 WITH comparable_years AS (
