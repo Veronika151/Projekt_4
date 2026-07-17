@@ -15,5 +15,6 @@ WHERE
 -- =========================================================
 -- Kontrola výsledné tabulky
 -- =========================================================
+
 SELECT *
 FROM t_veronika_ziburova_project_SQL_secondary_final;
