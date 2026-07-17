@@ -57,10 +57,10 @@ Obsahuje makroekonomické ukazatele jednotlivých států:
 
 ## 📌 Informace o výstupních datech
 
-- Analýza pracuje s průměrnými hodnotami mezd a cen potravin.
-- Meziroční změny lze vyhodnotit až od roku **2007**, protože rok **2006** nemá předchozí srovnávací období.
-- U výzkumné otázky č. 5 byla použita pouze data pro **Czech Republic**.
-- Analýza hodnotí vztahy mezi sledovanými ukazateli na základě dostupných dat a neprokazuje příčinné souvislosti.
+- Analýza pracuje s průměrnými hodnotami mezd podle jednotlivých odvětví a s průměrnými cenami sledovaných kategorií potravin.
+- Meziroční změny byly vypočteny pomocí analytické funkce `LAG()`. Z tohoto důvodu nelze změny vyhodnotit pro první sledovaný rok (2006), který nemá předchozí srovnávací období.
+- Pro výzkumnou otázku č. 5 byla ze sekundární tabulky využita pouze data pro **Czech Republic**.
+- Analýza je založena na dostupných historických datech. U otázek zaměřených na vztah mezi HDP, mzdami a cenami výsledky ukazují pouze souběžný vývoj ukazatelů a samy o sobě neprokazují příčinné souvislosti.
 
 ---
 
