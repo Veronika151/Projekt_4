@@ -68,10 +68,9 @@ Obsahuje makroekonomické ukazatele jednotlivých evropských států:
 
 **📊 1. Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
 
-Výsledky analýzy ukazují, že mzdy v jednotlivých odvětvích mezi roky 2006 a 2018 obecně rostly, avšak růst nebyl rovnoměrný ve všech sektorech. V některých letech a odvětvích došlo k meziročnímu poklesu mezd. Nejvýraznější pokles byl zaznamenán v roce 2013, především v odvětví peněžnictví a pojišťovnictví, kde mzdy klesly téměř o 9 %. Další významnější poklesy byly například v odvětví Výroba a rozvod elektřiny, plynu, tepla a klimatizovaného vzduchu (−4,44 % v roce 2013) nebo Těžba a dobývání (−3,24 % v roce 2013).
+Výsledky analýzy ukazují, že **průměrné mzdy v jednotlivých odvětvích mezi lety 2006–2018 celkově rostly**, jejich vývoj však **nebyl ve všech letech plynulý**. V některých odvětvích byly zaznamenány **meziroční poklesy mezd**, přičemž nejvýraznější nastal **v roce 2013** v odvětví **Peněžnictví a pojišťovnictví**, kde mzdy poklesly o **8,83 %**.
 
-_Závěr:_
-Mzdy nerostou ve všech letech bez výjimky, protože některá odvětví zaznamenala meziroční pokles. Celkový trend mezi roky 2007–2018 je však jednoznačně růstový – ve všech odvětvích došlo k celkovému zvýšení průměrné mzdy.
+Přestože se v průběhu sledovaného období objevily **krátkodobé meziroční poklesy**, **dlouhodobý trend je jednoznačně růstový**. Ve všech sledovaných odvětvích došlo mezi roky **2006 a 2018** k **celkovému zvýšení průměrné mzdy**.
 
 **SQL skript:** [question_1.sql](question_1.sql)
 
