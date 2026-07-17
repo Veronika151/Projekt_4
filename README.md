@@ -88,7 +88,7 @@ Ve sledovaném období se kupní síla obyvatel zvýšila. Přestože ceny chleb
 
 **🛒 3. Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
 
-Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr krystalový**. Průměrná meziroční změna ceny činila **−1,92 %**, což znamená, že se cena této potraviny se během sledovaného období v průměru meziročně snižovala.
+Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr krystalový**. Průměrná meziroční změna ceny činila **−1,92 %**, což znamená, že se cena této potraviny během sledovaného období v průměru meziročně snižovala.
 
 Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlouhodobě nezdražoval, ale vykazoval mírný pokles průměrné ceny.
 
