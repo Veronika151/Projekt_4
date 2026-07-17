@@ -1,3 +1,4 @@
+DROP TABLE IF EXISTS t_veronika_ziburova_project_SQL_secondary_final;
 CREATE TABLE t_veronika_ziburova_project_SQL_secondary_final AS
 SELECT
     c.country,
