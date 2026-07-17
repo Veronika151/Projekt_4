@@ -36,7 +36,7 @@ Obsahuje propojená data o:
 - průměrných cenách vybraných potravin,
 - jednotlivých letech.
 
-**Sekundární tabulka:** [secondary_table.sql](secondary_tabel.sql)
+**Sekundární tabulka:** [secondary_table.sql](secondary_table.sql)
 
 Obsahuje makroekonomické ukazatele jednotlivých států:
 
