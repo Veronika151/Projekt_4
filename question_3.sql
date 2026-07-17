@@ -1,7 +1,7 @@
 -- Výzkumná otázka č. 3
 --
 -- Která kategorie potravin zdražuje nejpomaleji
--- (má nejnižší průměrný procentuální meziroční nárůst)?
+-- (je u ní nejnižší percentuální meziroční nárůst)?
 -- =========================================================
 
 WITH yearly_prices AS (
