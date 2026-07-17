@@ -51,10 +51,10 @@ Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlo
 
 **Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
 
-Analýza ukázala, že **v žádném roce nepřevýšil meziroční růst cen potravin růst mezd o více než 10 procentních bodů**.
+Ve sledovaném období nebyl zaznamenán žádný rok, ve kterém by meziroční růst cen potravin převýšil růst mezd o více než **10 procentních bodů**.
 
-Největší kladný rozdíl byl zaznamenán v roce **2013**, kdy ceny potravin vzrostly v průměru o **6,01 %**, zatímco průměrné mzdy meziročně klesly o **0,78 %**. Rozdíl činil **6,79 procentního bodu**, což je méně než hranice stanovená v zadání.
+Největší rozdíl mezi meziročním růstem cen potravin a mezd byl zaznamenán v roce **2013**, kdy ceny potravin vzrostly v průměru o **6,01 %**, zatímco průměrné mzdy meziročně klesly o **0,78 %**. Rozdíl činil **6,79 procentního bodu**.
 
-Naopak v roce **2009** byl zaznamenán největší záporný rozdíl. Průměrné mzdy meziročně vzrostly o **2,84 %**, zatímco ceny potravin v průměru **klesly o 6,59 %**. Rozdíl dosáhl **−9,43 procentního bodu**, což znamená, že vývoj cen potravin byl v tomto roce pro spotřebitele příznivější než vývoj mezd.
+Naopak největší rozdíl ve prospěch mezd nastal v roce **2009**, kdy průměrné mzdy vzrostly o **2,84 %**, zatímco ceny potravin klesly o **6,59 %**. Rozdíl dosáhl **−9,43 procentního bodu**.
 
-Na základě dostupných dat tedy **nelze potvrdit**, že by v některém roce došlo k výrazně vyššímu růstu cen potravin oproti růstu mezd.
+
