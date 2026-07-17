@@ -22,4 +22,13 @@ Součástí projektu je také vytvoření doplňkové datové sady obsahující 
 
 Tyto údaje umožní porovnat ekonomickou situaci České republiky s ostatními evropskými státy ve stejném časovém období.
 
+### Výzkumná otázka č. 1:
+**Rostou v průběhu let mzdy ve všech odvětvích, nebo v některých klesají?**
+
+Na základě analýzy meziročních změn průměrných mezd bylo zjištěno, že mzdy nerostly ve všech odvětvích po celé sledované období. V letech 2006–2018 bylo identifikováno 25 případů meziročního poklesu mezd.
+
+Nejvíce poklesů nastalo v roce 2013, kdy se negativní vývoj projevil ve více odvětvích současně. Nejvýraznější pokles byl zaznamenán v odvětví peněžnictví a pojišťovnictví, kde průměrná mzda meziročně klesla o 8,83 %.
+
+Výsledky tedy ukazují, že dlouhodobý trend vývoje mezd byl sice rostoucí, ale jednotlivá odvětví zaznamenala v některých letech také pokles.
+
 ---
