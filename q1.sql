@@ -1,4 +1,3 @@
-
 -- Výzkumná otázka č. 1
 --
 -- Rostou v průběhu let mzdy ve všech odvětvích,
