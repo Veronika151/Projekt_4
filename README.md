@@ -28,7 +28,7 @@ Tyto údaje umožní porovnat ekonomickou situaci České republiky s ostatními
 
 Projekt využívá dvě výsledné tabulky:
 
-**Primární tabulka:** [primary_table.sql](sql/primary_table.sql)
+**Primární tabulka:** [primary_table.sql](primary_table.sql)
 
 Obsahuje propojená data o:
 
@@ -36,7 +36,7 @@ Obsahuje propojená data o:
 - průměrných cenách vybraných potravin,
 - jednotlivých letech.
 
-**Sekundární tabulka:** [secondary_table.sql](sql/secondary_tabel.sql)
+**Sekundární tabulka:** [secondary_table.sql](secondary_tabel.sql)
 
 Obsahuje makroekonomické ukazatele jednotlivých států:
 
@@ -73,7 +73,7 @@ Výsledky analýzy ukazují, že mzdy v jednotlivých odvětvích mezi roky 2006
 _Závěr:_
 Mzdy nerostou ve všech letech bez výjimky, protože některá odvětví zaznamenala meziroční pokles. Celkový trend mezi roky 2007–2018 je však jednoznačně růstový – ve všech odvětvích došlo k celkovému zvýšení průměrné mzdy.
 
-**SQL skript:** [question_1.sql](sql/question_1.sql)
+**SQL skript:** [question_1.sql](question_1.sql)
 
 ---
 
@@ -85,7 +85,7 @@ V posledním sledovaném období (2018) vzrostla kupní síla na přibližně **
 
 Ve sledovaném období se kupní síla obyvatel zvýšila. Přestože ceny chleba i mléka vzrostly, růst průměrných mezd byl vyšší než růst cen těchto potravin. Oproti roku 2006 bylo možné v roce 2018 koupit přibližně o **53 kg chleba** a **204 l mléka** více.
 
-**SQL skript:** [question_2.sql](sql/question_2.sql)
+**SQL skript:** [question_2.sql](question_2.sql)
 
 ---
 
@@ -96,6 +96,7 @@ Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr 
 Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlouhodobě nezdražoval, ale vykazoval mírný pokles průměrné ceny.
 
 **SQL skript:** [question_3.sql](question_3.sql)
+
 ---
 
 **📉 4. Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
@@ -106,7 +107,7 @@ Největší rozdíl mezi meziročním růstem cen potravin a mezd byl zaznamená
 
 Naopak největší rozdíl ve prospěch mezd nastal v roce **2009**, kdy průměrné mzdy vzrostly o **2,84 %**, zatímco ceny potravin klesly o **6,59 %**. Rozdíl dosáhl **−9,43 procentního bodu**.
 
-**SQL skript:** [question_4.sql](sql/question_4.sql)
+**SQL skript:** [question_4.sql](question_4.sql)
 
 ---
 
@@ -118,7 +119,7 @@ Výsledky **neprokázaly jednoznačný vztah** mezi růstem HDP a vývojem mezd 
 
 Při porovnání s následujícím rokem se však obdobný vývoj **neprojevoval pravidelně**. Na základě dostupných dat proto **nelze potvrdit, že vyšší růst HDP pravidelně vede k výraznějšímu růstu mezd nebo cen potravin ve stejném ani následujícím roce.**
 
-**SQL skript:** [question_5.sql](sql/question_5.sql)
+**SQL skript:** [question_5.sql](question_5.sql)
 
 ---
 
