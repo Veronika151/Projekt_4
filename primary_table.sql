@@ -22,8 +22,6 @@ GROUP BY
     cpc.name,
     cpc.price_unit;
 
-
-
 -- =========================================================
 -- 2. Příprava dat o mzdách
 -- =========================================================
@@ -55,14 +53,11 @@ GROUP BY
     cpib.code,
     cpib.name;
 
-
-
 -- =========================================================
 -- 3. Vytvoření finální primární tabulky
 -- =========================================================
 
 DROP TABLE IF EXISTS t_veronika_ziburova_project_SQL_primary_final;
-
 
 CREATE TABLE t_veronika_ziburova_project_SQL_primary_final AS
 
@@ -82,8 +77,6 @@ FROM czechia_payroll_temporary pay
 
 JOIN czechia_price_temporary price
     ON pay.year = price.year;
-
-
 
 -- =========================================================
 -- Kontrola výsledné tabulky
