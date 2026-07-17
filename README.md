@@ -29,3 +29,12 @@ Výsledky analýzy ukazují, že mzdy v jednotlivých odvětvích mezi roky 2006
 
 _Závěr:_
 Mzdy nerostou ve všech letech bez výjimky, protože některá odvětví zaznamenala meziroční pokles. Celkový trend mezi roky 2007–2018 je však jednoznačně růstový – ve všech odvětvích došlo k celkovému zvýšení průměrné mzdy.
+
+### Výzkumná otázka č. 2:
+**Kolik je možné si koupit litrů mléka a kilogramů chleba za první a poslední srovnatelné období v dostupných datech cen a mezd?**
+
+V prvním srovnatelném období (2006) bylo možné za průměrnou mzdu koupit přibližně **1 312 kg konzumního chleba** nebo **1 465 litrů polotučného mléka**.
+
+V posledním sledovaném období (2018) vzrostla kupní síla na přibližně **1 365 kg chleba** a **1 669 litrů mléka**.
+
+Ve sledovaném období se kupní síla obyvatel zvýšila. Přestože ceny chleba i mléka vzrostly, růst průměrných mezd byl vyšší než růst cen těchto potravin. Oproti roku 2006 bylo možné v roce 2018 koupit přibližně o **53 kg chleba** a **204 l mléka** více.
