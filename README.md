@@ -46,3 +46,15 @@ Ve sledovaném období se kupní síla obyvatel zvýšila. Přestože ceny chleb
 Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr krystalový**. Průměrná meziroční změna ceny činila **−1,92 %**, což znamená, že se cena této potraviny se během sledovaného období v průměru meziročně snižovala.
 
 Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlouhodobě nezdražoval, ale vykazoval mírný pokles průměrné ceny.
+
+### Výzkumná otázka č. 4:
+
+**Existuje rok, ve kterém byl meziroční nárůst cen potravin výrazně vyšší než růst mezd (větší než 10 %)?**
+
+Analýza ukázala, že **v žádném roce nepřevýšil meziroční růst cen potravin růst mezd o více než 10 procentních bodů**.
+
+Největší kladný rozdíl byl zaznamenán v roce **2013**, kdy ceny potravin vzrostly v průměru o **6,01 %**, zatímco průměrné mzdy meziročně klesly o **0,78 %**. Rozdíl činil **6,79 procentního bodu**, což je méně než hranice stanovená v zadání.
+
+Naopak v roce **2009** byl zaznamenán největší záporný rozdíl. Průměrné mzdy meziročně vzrostly o **2,84 %**, zatímco ceny potravin v průměru **klesly o 6,59 %**. Rozdíl dosáhl **−9,43 procentního bodu**, což znamená, že vývoj cen potravin byl v tomto roce pro spotřebitele příznivější než vývoj mezd.
+
+Na základě dostupných dat tedy **nelze potvrdit**, že by v některém roce došlo k výrazně vyššímu růstu cen potravin oproti růstu mezd.
