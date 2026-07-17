@@ -38,7 +38,7 @@ Obsahuje propojená data o:
 
 **Sekundární tabulka:** [secondary_table.sql](secondary_table.sql)
 
-Obsahuje makroekonomické ukazatele jednotlivých států:
+Obsahuje makroekonomické ukazatele jednotlivých evropských států:
 
 - HDP (GDP),
 - počet obyvatel,
