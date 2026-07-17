@@ -38,9 +38,7 @@ JOIN czechia_payroll_industry_branch AS cpib
     ON cp.industry_branch_code = cpib.code
 WHERE
     cp.value_type_code = 5958
-    -- pouze mzdy
     AND cp.calculation_code = 200
-    -- přepočtený počet zaměstnanců na plný úvazek
     AND cp.payroll_year BETWEEN 2006 AND 2018
 GROUP BY
     cp.payroll_year,
