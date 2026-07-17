@@ -38,3 +38,11 @@ V prvním srovnatelném období (2006) bylo možné za průměrnou mzdu koupit p
 V posledním sledovaném období (2018) vzrostla kupní síla na přibližně **1 365 kg chleba** a **1 669 litrů mléka**.
 
 Ve sledovaném období se kupní síla obyvatel zvýšila. Přestože ceny chleba i mléka vzrostly, růst průměrných mezd byl vyšší než růst cen těchto potravin. Oproti roku 2006 bylo možné v roce 2018 koupit přibližně o **53 kg chleba** a **204 l mléka** více.
+
+### Výzkumná otázka č. 3:
+
+**Která kategorie potravin zdražuje nejpomaleji (je u ní nejnižší percentuální meziroční nárůst)?**
+
+Nejnižší průměrný meziroční růst ceny byl zjištěn u kategorie **Cukr krystalový**. Průměrná meziroční změna ceny činila **−1,92 %**, což znamená, že se cena této potraviny se během sledovaného období v průměru meziročně snižovala.
+
+Na rozdíl od většiny ostatních sledovaných kategorií potravin tak cukr dlouhodobě nezdražoval, ale vykazoval mírný pokles průměrné ceny.
