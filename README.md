@@ -48,10 +48,10 @@ Obsahuje makroekonomické ukazatele jednotlivých států:
 
 ## ⚙️ Postup zpracování
 
-1. Byla vytvořena primární tabulka propojující data o mzdách a cenách potravin.
-2. Byla vytvořena sekundární tabulka obsahující makroekonomické ukazatele.
-3. Nad výslednými tabulkami byly vytvořeny SQL dotazy odpovídající jednotlivým výzkumným otázkám.
-4. Výsledky byly interpretovány na základě získaných dat.
+1. Byla vytvořena primární tabulka propojující data o průměrných mzdách a cenách potravin za společné období.
+2. Byla vytvořena sekundární tabulka obsahující makroekonomické ukazatele (HDP, počet obyvatel a Giniho koeficient).
+3. Nad výslednými tabulkami byly vytvořeny SQL dotazy pro zodpovězení pěti výzkumných otázek. Pro výpočty meziročních změn byla využita analytická funkce `LAG()`.
+4. Získané výsledky byly vyhodnoceny a interpretovány pro jednotlivé výzkumné otázky.
 
 ---
 
