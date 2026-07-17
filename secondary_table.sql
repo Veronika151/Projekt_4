@@ -16,8 +16,7 @@ WHERE
     e.year BETWEEN 2006 AND 2018
     AND c.continent = 'Europe';
 
-
--- kontrola výsledku
+-- Kontrola výsledku
 
 SELECT *
 FROM t_veronika_ziburova_project_SQL_secondary_final;
