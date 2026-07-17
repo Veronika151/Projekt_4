@@ -2,16 +2,19 @@
 -- 1. Příprava dat o cenách potravin
 -- =========================================================
 
+DROP TABLE IF EXISTS czechia_price_temporary;
+
 CREATE TEMPORARY TABLE czechia_price_temporary AS
 SELECT
     EXTRACT(YEAR FROM cp.date_from)::INTEGER AS year,
     cpc.code AS product_code,
     cpc.name AS product_name,
-    ROUND(AVG(cp.value)::numeric, 2) AS avg_price_value,
+    ROUND(AVG(cp.value)::NUMERIC, 2) AS avg_price_value,
     cpc.price_unit
-FROM czechia_price cp
-JOIN czechia_price_category cpc
+FROM czechia_price AS cp
+JOIN czechia_price_category AS cpc
     ON cp.category_code = cpc.code
+WHERE EXTRACT(YEAR FROM cp.date_from) BETWEEN 2006 AND 2018
 GROUP BY
     EXTRACT(YEAR FROM cp.date_from),
     cpc.code,
@@ -22,16 +25,18 @@ GROUP BY
 -- 2. Příprava dat o mzdách
 -- =========================================================
 
+DROP TABLE IF EXISTS czechia_payroll_temporary;
+
 CREATE TEMPORARY TABLE czechia_payroll_temporary AS
 SELECT
     cp.payroll_year AS year,
     cpib.code AS branch_code,
     cpib.name AS industry_branch_name,
-    ROUND(AVG(cp.value)::numeric) AS avg_payroll_value
-FROM czechia_payroll cp
-JOIN czechia_payroll_industry_branch cpib
+    ROUND(AVG(cp.value)::NUMERIC) AS avg_payroll_value
+FROM czechia_payroll AS cp
+JOIN czechia_payroll_industry_branch AS cpib
     ON cp.industry_branch_code = cpib.code
-WHERE 
+WHERE
     cp.value_type_code = 5958
     -- pouze mzdy
     AND cp.calculation_code = 200
@@ -58,8 +63,8 @@ SELECT
     price.product_name,
     price.avg_price_value,
     price.price_unit
-FROM czechia_payroll_temporary pay
-JOIN czechia_price_temporary price
+FROM czechia_payroll_temporary AS pay
+JOIN czechia_price_temporary AS price
     ON pay.year = price.year;
 
 -- =========================================================
@@ -67,4 +72,8 @@ JOIN czechia_price_temporary price
 -- =========================================================
 
 SELECT *
-FROM t_veronika_ziburova_project_SQL_primary_final;
+FROM t_veronika_ziburova_project_SQL_primary_final
+ORDER BY
+    year,
+    branch_code,
+    product_code;
