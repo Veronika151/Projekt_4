@@ -47,7 +47,7 @@ Obsahuje makroekonomické ukazatele jednotlivých evropských států:
 ## ⚙️ Postup zpracování
 
 1. Byla vytvořena primární tabulka propojující data o průměrných mzdách a cenách potravin za společné období.
-2. Byla vytvořena sekundární tabulka obsahující makroekonomické ukazatele (HDP, počet obyvatel a Giniho koeficient).
+2. Byla vytvořena sekundární tabulka obsahující makroekonomické ukazatele (HDP, počet obyvatel a Giniho koeficient) dalších evropských států.
 3. Nad výslednými tabulkami byly vytvořeny SQL dotazy pro zodpovězení pěti výzkumných otázek. Pro výpočty meziročních změn byla využita analytická funkce `LAG()`.
 4. Získané výsledky byly vyhodnoceny a interpretovány pro jednotlivé výzkumné otázky.
 
